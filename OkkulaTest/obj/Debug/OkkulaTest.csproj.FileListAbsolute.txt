@@ -1,0 +1,10 @@
+E:\Projects\Okkula\OkkulaTest\bin\Debug\OkkulaTest.exe
+E:\Projects\Okkula\OkkulaTest\bin\Debug\OkkulaTest.pdb
+E:\Projects\Okkula\OkkulaTest\bin\Debug\Okkula.dll
+E:\Projects\Okkula\OkkulaTest\bin\Debug\OpenTK.dll
+E:\Projects\Okkula\OkkulaTest\bin\Debug\Okkula.pdb
+E:\Projects\Okkula\OkkulaTest\bin\Debug\OpenTK.pdb
+E:\Projects\Okkula\OkkulaTest\bin\Debug\OpenTK.xml
+E:\Projects\Okkula\OkkulaTest\obj\Debug\OkkulaTest.csprojResolveAssemblyReference.cache
+E:\Projects\Okkula\OkkulaTest\obj\Debug\OkkulaTest.exe
+E:\Projects\Okkula\OkkulaTest\obj\Debug\OkkulaTest.pdb

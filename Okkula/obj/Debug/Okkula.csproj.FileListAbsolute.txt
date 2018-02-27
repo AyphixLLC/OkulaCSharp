@@ -1,0 +1,12 @@
+E:\Projects\Okkula\Okkula\bin\Debug\Okkula.dll
+E:\Projects\Okkula\Okkula\bin\Debug\Okkula.pdb
+E:\Projects\Okkula\Okkula\bin\Debug\OpenTK.Compatibility.dll
+E:\Projects\Okkula\Okkula\bin\Debug\OpenTK.dll
+E:\Projects\Okkula\Okkula\bin\Debug\OpenTK.GLControl.dll
+E:\Projects\Okkula\Okkula\bin\Debug\OpenTK.pdb
+E:\Projects\Okkula\Okkula\bin\Debug\OpenTK.xml
+E:\Projects\Okkula\Okkula\bin\Debug\OpenTK.Compatibility.pdb
+E:\Projects\Okkula\Okkula\bin\Debug\OpenTK.GLControl.xml
+E:\Projects\Okkula\Okkula\obj\Debug\Okkula.csprojResolveAssemblyReference.cache
+E:\Projects\Okkula\Okkula\obj\Debug\Okkula.dll
+E:\Projects\Okkula\Okkula\obj\Debug\Okkula.pdb
