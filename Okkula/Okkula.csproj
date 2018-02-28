@@ -49,13 +49,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ShaderProgram.cs" />
     <Compile Include="System\Core\OkulaApplication.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="System\Graphics\Sprite.cs" />
     <Compile Include="System\Graphics\Texture.cs" />
     <Compile Include="System\Window\Window.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="System\Widgets\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

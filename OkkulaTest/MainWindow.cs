@@ -14,5 +14,9 @@ namespace OkkulaTest {
         public override void OnLoad(object sender, EventArgs e) {
             this.Title = "Okula Application";
         }
+
+        public override void OnUpdate(object shader, EventArgs e) {
+
+        }
     }
 }

@@ -77,6 +77,8 @@ namespace Okkula {
             private set;
         }
 
+        private List<Widget> _children = new List<Widget>();
+
         public Window() {
 
         }
@@ -106,15 +108,16 @@ namespace Okkula {
         }
 
         private void Update(object sender, FrameEventArgs e) {
+            GL.Viewport(0, 0, this.Width, this.Height);
             GL.ClearColor(this.BackgroundColor);
             GL.Clear(ClearBufferMask.ColorBufferBit | ClearBufferMask.DepthBufferBit);
+            this.OnUpdate(sender, e);
             GL.Flush();
             this.InternalWindow.SwapBuffers();
             this.InternalWindow.ProcessEvents();
         }
 
         void InternalWindow_Resize(object sender, EventArgs e) {
-            GL.Viewport(0, 0, this.InternalWindow.Width, this.InternalWindow.Height);
             OnResize(sender, e);
         }
 
@@ -125,5 +128,7 @@ namespace Okkula {
         public virtual void OnClosing(object sender, EventArgs e) { }
 
         public virtual void OnClosed(object sender, EventArgs e) { }
+
+        public virtual void OnUpdate(object shader, EventArgs e) { }
     }
 }
